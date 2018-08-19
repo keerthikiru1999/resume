@@ -1,0 +1,48 @@
+{
+	"basicdetails":{
+		"image":"image.jpg",
+		"name":"k.ramya keerthi",
+		"email":"ramyajanu26@gmail.com",
+		"phno":"7396452623"
+	},
+	"education":[
+		{
+			"course":"cse",
+			"college":"vignan nirula",
+			"percentage":"73"
+
+		},
+		{
+			"course":"intermedite",
+			"college":"gitams junior college",
+			"percentage":"94"
+		},
+		{
+			"course":"ssc",
+			"college":"gitams high school",
+			"percentage":"90"
+		}
+	],
+	"skills":[
+		{
+			"name":"Operating systems",
+			"value":"Windows,Linux,MAC"
+
+		},
+		{
+			"name":"Programming Languages",
+			"value":"C,C++,Java,Python"
+		}
+	],
+	"carrier":{
+		"ca":"i want to suceed in environment"
+	},
+    "achievements":[
+               "i go first prize in this college",
+               "i got gold medal in intermediate"
+],
+ "description":{
+ 	"des":"i there by mentioned  that all the above details are true upto my concern."
+ }    
+}
+
